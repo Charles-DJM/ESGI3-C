@@ -1,0 +1,7 @@
+#ifndef HELLOWORLD_H_INCLUDED
+#define HELLOWORLD_H_INCLUDED
+
+void HelloWorld();
+
+
+#endif // HELLOWORLD_H_INCLUDED
