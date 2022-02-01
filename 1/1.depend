@@ -45,3 +45,45 @@
 	<stdio.h>
 	"tp1.h"
 
+1643132745 source:c:\users\bob\documents\c\esgi3-c\1\helloworld.c
+	<stdio.h>
+	"HelloWorld.h"
+
+1643132741 c:\users\bob\documents\c\esgi3-c\1\inc\helloworld.h
+
+1643144426 source:c:\users\bob\documents\c\esgi3-c\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+
+1643143991 c:\users\bob\documents\c\esgi3-c\1\inc\tp1.h
+
+1643142562 source:c:\users\bob\documents\c\esgi3-c\1\tp0\trapeze.c
+	<stdio.h>
+	<stdlib.h>
+	"tp0.h"
+
+1643142571 c:\users\bob\documents\c\esgi3-c\1\inc\tp0.h
+
+1643142362 source:c:\users\bob\documents\c\esgi3-c\1\tp1\biggest.c
+	<stdio.h>
+	<limits.h>
+	"tp1.h"
+
+1643145795 source:c:\users\bob\documents\c\esgi3-c\1\tp1\etoiles.c
+	<stdio.h>
+	"tp1.h"
+
+1643142368 source:c:\users\bob\documents\c\esgi3-c\1\tp1\pentagone.c
+	<stdio.h>
+	<math.h>
+	"tp1.h"
+
+1643142371 source:c:\users\bob\documents\c\esgi3-c\1\tp1\sum.c
+	<stdio.h>
+	"tp1.h"
+
+1643143943 source:c:\users\bob\documents\c\esgi3-c\1\tp1\tableascii.c
+	<stdio.h>
+	"tp1.h"
+

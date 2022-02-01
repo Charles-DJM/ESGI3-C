@@ -22,5 +22,5 @@ void pentagone() {
     float resultat = 0.0;
     mesure = demander_mesure(mesure);
     resultat = calcul_aire(mesure);
-    printf("Resultat = %f", resultat);
+    printf("Resultat = %f \n", resultat);
 }
